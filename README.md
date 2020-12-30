@@ -1,2 +1,5 @@
 # hello-world
-Tutorial on how to use GitHub
+
+How to use GitHub tutorial
+
+Making my first commit changes to the readme-edits branch.
